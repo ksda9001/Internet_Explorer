@@ -1,0 +1,3 @@
+Invoke-ps2exe -inputFile '.\Internet Explorer.ps1' -outputFile '.\Internet Explorer 64.exe' -x64 -MTA -noConsole -product 'Internet Explorer x64' -title 'Norns Interactive' -iconFile '.\Internet Explorer.ico' -version '1.0.0' -description 'Norns Interactive product'
+
+Invoke-ps2exe -inputFile '.\Internet Explorer.ps1' -outputFile '.\Internet Explorer 86.exe' -x86 -MTA -noConsole -product 'Internet Explorer x86' -title 'Norns Interactive' -iconFile '.\Internet Explorer.ico' -version '1.0.0' -description 'Norns Interactive product'
