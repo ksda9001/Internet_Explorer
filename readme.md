@@ -1,3 +1,8 @@
-Invoke-ps2exe -inputFile '.\Internet Explorer.ps1' -outputFile '.\Internet Explorer 64.exe' -x64 -MTA -noConsole -product 'Internet Explorer x64' -title 'Norns Interactive' -iconFile '.\Internet Explorer.ico' -version '1.0.0' -description 'Norns Interactive product'
+![Internet Explorer](Internet_Explorer.png)
+# 在Windows10 / Windows11平台运行Internet Explorer
 
-Invoke-ps2exe -inputFile '.\Internet Explorer.ps1' -outputFile '.\Internet Explorer 86.exe' -x86 -MTA -noConsole -product 'Internet Explorer x86' -title 'Norns Interactive' -iconFile '.\Internet Explorer.ico' -version '1.0.0' -description 'Norns Interactive product'
+## 下载IE浏览器
+[![下载](https://img.shields.io/github/downloads/ksda9001/Internet_Explorer/total.svg?style=flat)](https://github.com/ksda9001/Internet_Explorer/releases)
+
+---
+  *Internet Explorer商标及相关图标版权归属Microsoft*
